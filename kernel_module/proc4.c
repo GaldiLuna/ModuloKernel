@@ -8,7 +8,7 @@
 #define HAVE_PROC_OPS
 #endif
 
-#define PROC_NAME "<GALDILUNA>_PROC_FS"
+#define PROC_NAME "GALDILUNA_PROC_FS"
 
 static void *my_seq_start(struct seq_file *s, loff_t *pos)
 {
